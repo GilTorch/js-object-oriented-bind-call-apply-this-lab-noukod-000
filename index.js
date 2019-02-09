@@ -2,3 +2,7 @@
 function justInvoke(fn){
  return fn.call()
 }
+
+function setThisWithCall(){
+  
+}
