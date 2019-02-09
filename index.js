@@ -1,4 +1,4 @@
 //Your code here
-function invokeFunction(){
-
+function invokeFunction(fn){
+ return fn.call()
 }
